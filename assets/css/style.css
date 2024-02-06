@@ -1715,6 +1715,7 @@ section {
   --color-greenhse: #238137;
   --color-bluehse: #33334d;
   --color-lavadohse: #354662;
+  --color-polohse: #adb5bd;
   
 }
 
@@ -1816,6 +1817,7 @@ section {
 .color-greenhse { color: var(--color-greenhse) !important; }
 .color-bluehse { color: var(--color-bluehse) !important; }
 .color-lavadohse {color:var(--color-lavadohse)!important;}
+.color-polohse {color:var(--color-polohse)!important;}
 
 /* Background Colors */
 .bg-default { background-color: var(--color-default) !important; }
