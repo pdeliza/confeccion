@@ -1716,6 +1716,7 @@ section {
   --color-bluehse: #33334d;
   --color-lavadohse: #354662;
   --color-polohse: #adb5bd;
+  --color-camisaoficina: #8095c1;
   
 }
 
@@ -1818,6 +1819,7 @@ section {
 .color-bluehse { color: var(--color-bluehse) !important; }
 .color-lavadohse {color:var(--color-lavadohse)!important;}
 .color-polohse {color:var(--color-polohse)!important;}
+.color-camisaoficina {color:var(--color-camisaoficina)!important;}
 
 /* Background Colors */
 .bg-default { background-color: var(--color-default) !important; }
