@@ -1717,6 +1717,10 @@ section {
   --color-lavadohse: #354662;
   --color-polohse: #adb5bd;
   --color-camisaoficina: #8095c1;
+  --color-bm: #19828f;
+  --color-bm1: #c99f99;
+  --color-bm2: #133c8d;
+
   
 }
 
@@ -1820,6 +1824,10 @@ section {
 .color-lavadohse {color:var(--color-lavadohse)!important;}
 .color-polohse {color:var(--color-polohse)!important;}
 .color-camisaoficina {color:var(--color-camisaoficina)!important;}
+.color-bm {color:var(--color-bm)!important;}
+.color-bm1 {color:var(--color-bm1)!important;}
+.color-bm2 {color:var(--color-bm2)!important;}
+
 
 /* Background Colors */
 .bg-default { background-color: var(--color-default) !important; }
