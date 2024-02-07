@@ -462,7 +462,7 @@ h6 {
   }
 
   #hero{ /*---esto es pa regular el logo en el nav desde el movil--*/
-    padding: 40px;
+    padding: absolute;
   }
 }
 
@@ -515,7 +515,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  z-index: 7;
+  z-index: 1; /*--- 7---*/
 }
 
 #hero .hero-slider .swiper-slide {
@@ -532,6 +532,7 @@ h6 {
   max-height: 180px;
   margin-right: 6px;
 }
+
 
 
 /*--------------------------------------------------------------
