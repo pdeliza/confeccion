@@ -1720,8 +1720,10 @@ section {
   --color-bm: #19828f;
   --color-bm1: #c99f99;
   --color-bm2: #133c8d;
-
-  
+  --color-t1: #23569c;
+  --color-t2: #8cc6b5;
+  --color-cubrecalzado: #2c7ea7;
+  --color-mask: #17b0c4;
 }
 
 /*--------------------------------------------------------------
@@ -1827,6 +1829,10 @@ section {
 .color-bm {color:var(--color-bm)!important;}
 .color-bm1 {color:var(--color-bm1)!important;}
 .color-bm2 {color:var(--color-bm2)!important;}
+.color-t1 {color:var(--color-t1)!important;}
+.color-t2 {color:var(--color-t2)!important;}
+.color-cubrecalzado {color:var(--color-cubrecalzado)!important;}
+.color-mask {color:var(--color-mask)!important;}
 
 
 /* Background Colors */
