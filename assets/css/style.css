@@ -526,12 +526,12 @@ h6 {
 }
 
 
-/* #hero .hero-content img { esto es para logo en el hero
+#hero .hero-content img {
   padding: 0;
   margin: 0;
-  max-height: 300px;
+  max-height: 180px;
   margin-right: 6px;
-} */
+}
 
 
 /*--------------------------------------------------------------
