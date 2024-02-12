@@ -572,6 +572,7 @@ section {
 .section-header p {
   padding: 0;
   margin: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
@@ -856,7 +857,7 @@ section {
 
 #clients img {
   max-width: 100%;
-  opacity: 0.5;
+  opacity: none;
   transition: 0.3s;
   padding: 15px 0;
 }
@@ -984,7 +985,29 @@ section {
   bottom: 0;
 }
 
+#portfolio .service-item .btn-get-started{
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 7px 22px;
+  border-radius: 4px;
+  transition: 0.3s;
+  margin: 15px;
+  color: #fff;
+  margin-bottom: -15px;
+}
 
+#portfolio .service-item .btn-get-started {
+  background: #0c2e8a;
+  border: 2px solid #0c2e8a;
+}
+
+#portfolio .service-item .btn-get-started:hover {
+  background: none;
+  color: #0c2e8a;
+}
 
 /* esto es el css de herobiz--------------------------------*/
 
